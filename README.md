@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning: React
 - 💬 Ask me about: C++, Competitive Programming
-- 📫 How to reach me:through [mail](mailto:akshatnema.official@gmail.com) and [linkedin]()
+- 📫 How to reach me:through [mail](mailto:akshatnema.official@gmail.com) and [linkedin](https://www.linkedin.com/in/akshat-nema-2002/)
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I am still a newbie😄.
 
