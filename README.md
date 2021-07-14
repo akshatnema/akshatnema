@@ -1,5 +1,7 @@
 ### Hi there, I am Akshat 👋
 
+<img src="img1.jpg" width=200px height=200px border-radius=150px alt="profilepic" align="right">
+
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning: React
 - 💬 Ask me about: C++, Competitive Programming
@@ -7,7 +9,7 @@
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I am still a newbie😄.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FAkshat%2FNema&psig=AOvVaw3WRb5EUQ1SU-VE1HWZSBI-&ust=1626358930611000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIC6oanh4vECFQAAAAAdAAAAABAD" width=200px height=200px border-radius=150px alt="profilepic" align="right">
+
 
 
 <!--
