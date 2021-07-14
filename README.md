@@ -1,15 +1,14 @@
-### Hi there, I am Akshat 👋
+### Hello World, I am Akshat 👋
 
-<img src="img1.jpg" width=200px height=200px alt="profilepic" align="right" style="margin-left=40px; margin-top=-10px; border-radius=200px">
+<img src="img1.jpg" width="200px" height="200px" alt="profilepic" align="right"> 
+<br>
 
-
-
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning: React
-- 💬 Ask me about: C++, Competitive Programming
-- 📫 How to reach me:through [mail](mailto:akshatnema.official@gmail.com) and [linkedin](https://www.linkedin.com/in/akshat-nema-2002/)
-- 😄 Pronouns: He/him.
-- ⚡ Fun fact: I am still a newbie😄.
+  - 🔭 I’m currently working on Web Development
+  - 🌱 I’m currently learning: React
+  - 💬 Ask me about: C++, Competitive Programming
+  - 📫 How to reach me:through [mail](mailto:akshatnema.official@gmail.com) and [linkedin](https://www.linkedin.com/in/akshat-nema-2002/)
+  - 😄 Pronouns: He/him.
+  - ⚡ Fun fact: I am still a newbie😄.
 
 
 
