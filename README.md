@@ -10,6 +10,15 @@
   - 😄 Pronouns: He/him.
   - ⚡ Fun fact: I am still a newbie😄.
 
+<br>
+
+![Akshat's Github stats](https://github-readme-stats.vercel.app/api?username=AKSHATNEMA&count_private=true&show_icons=true&theme=gruvbox)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Profile-Card&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Daily-Coding-DS-Algo-Practice)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHATNEMA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
