@@ -1,6 +1,6 @@
 ### Hi there, I am Akshat 👋
 
-<img src="img1.jpg" width=200px height=200px alt="profilepic" align="right" style="margin-left=40px border-radius=200px">
+<img src="img1.jpg" width=200px height=200px alt="profilepic" align="right" style="margin-left=40px; margin-top=-10px; border-radius=200px">
 
 
 
