@@ -2,6 +2,8 @@
 
 <img src="img1.jpg" width=200px height=200px alt="profilepic" align="right" style="margin-left=40px border-radius=200px">
 
+
+
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning: React
 - 💬 Ask me about: C++, Competitive Programming
