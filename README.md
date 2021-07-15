@@ -1,7 +1,7 @@
 ### Hello World, I am Akshat 👋
 
-<img src="img1.jpg" width="200px" height="200px" alt="profilepic" align="right"> 
-<br>
+<img src="gif.gif" width="400px" alt=gif align="right"> 
+<br />
 
   - 🔭 I’m currently working on Web Development
   - 🌱 I’m currently learning: React
@@ -10,15 +10,53 @@
   - 😄 Pronouns: He/him.
   - ⚡ Fun fact: I am still a newbie😄.
 
-<br>
+<br />
+<br />
 
-![Akshat's Github stats](https://github-readme-stats.vercel.app/api?username=AKSHATNEMA&count_private=true&show_icons=true&theme=gruvbox)
+<p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AKSHATNEMA?color=g&logo=github&style=for-the-badge">
+ <!-- <img src="https://gpvc.arturio.dev/AKSHATNEMA" alt="profile views"> -->
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AKSHATNEMA?affiliations=OWNER&color=B&logo=github&style=for-the-badge">
+  
+</p> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Profile-Card&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Daily-Coding-DS-Algo-Practice)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHATNEMA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- ![Akshat's Github stats](https://github-readme-stats.vercel.app/api?username=AKSHATNEMA&count_private=true&show_icons=true&theme=gruvbox) -->
+ 
+  <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Profile-Card&show_owner=true)](https://github.com/AKSHATNEMA/Profile-Card)
+    -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AKSHATNEMA&count_private=true&show_icons=true&theme=gruvbox" align="center">
+  <br> <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHATNEMA&theme=gruvbox" align="center">
+
+</p>
+
+<br />
+
+<!--<p align=center>
+ <a href="https://github.com/AKSHATNEMA/Profile-Card">
+  <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Profile-Card&show_owner=true)](https://github.com/AKSHATNEMA/Profile-Card)
+    -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Profile-Card&show_owner=true" height="250px" width="40%" align="center"> 
+</a>
+  
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Daily-Coding-DS-Algo-Practice)](https://github.com/AKSHATNEMA/Daily-Coding-DS-ALGO-Practice) -->
+<!-- <a href="https://github.com/AKSHATNEMA/Daily-Coding-DS-ALGO-Practice">
+  <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Profile-Card&show_owner=true)](https://github.com/AKSHATNEMA/Profile-Card)
+    -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKSHATNEMA&repo=Daily-Coding-DS-Algo-Practice" height="200px" width="40%" align="center"> 
+</a> 
+
+</p>
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHATNEMA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHATNEMA&layout=compact" height="200px" width="400px" align="center">
+  
+</p>  
 
 
 
