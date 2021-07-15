@@ -10,8 +10,8 @@
   - 😄 Pronouns: He/him.
   - ⚡ Fun fact: I am still a newbie😄.
 
-<br />
-<br />
+<br>
+<br><br>
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/AKSHATNEMA?color=g&logo=github&style=for-the-badge">
