@@ -28,6 +28,7 @@ Skills know:
   <p align="center"> 
     <img src="https://img.shields.io/badge/-C%2B%2B-white?color=blue&style=for-the-badge&logo=C%2B%2B&logoColor=white&logoWidth=20" />
     <img src="https://img.shields.io/badge/-C-white?color=2a1d80&style=for-the-badge&logo=C&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/-HTML5-white?color=ff6529&style=for-the-badge&logo=HTML5&logoColor=white&logoWidth=20" />
     </p> 
 <!--
 <p align="center">
