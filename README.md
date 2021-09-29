@@ -11,8 +11,8 @@
   - 😄 Pronouns: He/him.
   - ⚡ Fun fact: I am still a newbie😄.
 
-<br>
-<br><br>
+<br />
+<br />
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/AKSHATNEMA?color=g&logo=github&style=for-the-badge">
@@ -22,7 +22,13 @@
  <img alt="Follow Twitter" src="https://img.shields.io/twitter/follow/AksNema?color=blue&label=Aks%20Nema&logo=twitter&logoColor=blue&style=for-the-badge">
   
 </p> 
-
+<h2 align="center">
+Skills know:
+</h2>  
+  <p align="center"> 
+    <img src="https://img.shields.io/badge/-C%2B%2B-white?color=blue&style=for-the-badge&logo=C%2B%2B&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/-C-white?color=2a1d80&style=for-the-badge&logo=C&logoColor=white&logoWidth=20" />
+    </p> 
 <!--
 <p align="center">
 
