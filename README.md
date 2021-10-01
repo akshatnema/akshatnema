@@ -28,9 +28,16 @@ Technologies Used/Skills know:
   <p align="center"> 
     <img src="https://img.shields.io/badge/-C%2B%2B-white?color=blue&style=for-the-badge&logo=C%2B%2B&logoColor=white&logoWidth=20" />
     <img src="https://img.shields.io/badge/-C-white?color=2a1d80&style=for-the-badge&logo=C&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/-javascript-white?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=20&color=F1DB4E" />
+    <img src="https://img.shields.io/badge/-java-orange?color=EC2025&style=for-the-badge&logo=java&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/-Python-orange?color=205966&style=for-the-badge&logo=Python&logoColor=white&logoWidth=20" />
     <img src="https://img.shields.io/badge/-HTML5-white?color=ff6529&style=for-the-badge&logo=HTML5&logoColor=white&logoWidth=20" />
     <img src="https://img.shields.io/badge/-CSS3-orange?color=264DE4&style=for-the-badge&logo=CSS3&logoColor=white&logoWidth=20" />
-    <img src="https://img.shields.io/badge/-Python-orange?color=205966&style=for-the-badge&logo=Python&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/-Node-orange?color=8BBF3F&style=for-the-badge&logo=NODE&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&style=for-the-badge&logo=NPM&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/-React-orange?color=09D9FE&style=for-the-badge&logo=React&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/-mySQL-orange?color=4579A0&style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20" />
+    <img src="https://img.shields.io/badge/-Express-orange?color=8BBF3F&style=for-the-badge&logo=Express&logoColor=white&logoWidth=20" />
    </p> 
 <!--
 <p align="center">
