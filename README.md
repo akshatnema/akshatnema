@@ -16,9 +16,9 @@
 <br />
 <br />
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AKSHATNEMA?color=g&logo=github&style=for-the-badge">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatnema?color=g&logo=github&style=for-the-badge">
  <!-- <img src="https://gpvc.arturio.dev/AKSHATNEMA" alt="profile views"> -->
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AKSHATNEMA?affiliations=OWNER&color=B&logo=github&style=for-the-badge">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/akshatnema?affiliations=OWNER&color=B&logo=github&style=for-the-badge">
   
  <img alt="Follow Twitter" src="https://img.shields.io/twitter/follow/AksNema?color=blue&label=Aks%20Nema&logo=twitter&logoColor=blue&style=for-the-badge">
   
@@ -80,13 +80,13 @@ Technologies Used/Skills know:
 
 <p align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=AKSHATNEMA&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatnema&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHATNEMA&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatnema&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
   
 </p> 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=AKSHATNEMA&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=akshatnema&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
 
 <!--
 **AKSHATNEMA/AKSHATNEMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
