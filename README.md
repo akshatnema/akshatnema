@@ -1,5 +1,5 @@
 <!--### Hello World, I am Akshat 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+FrontEnd+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+FrontEnd+Developer&color=ffd500)](https://git.io/typing-svg)
 
 <img src="gif.gif" width="400px" alt=gif align="right"> 
 <br />
@@ -80,13 +80,13 @@ Technologies Used/Skills know:
 
 <p align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatnema&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatnema&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ffd500&text_color=ffd500&icon_color=ffd500&cache_seconds=1800" />
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatnema&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatnema&background=00000000&hide_border=true&stroke=ffd500&ring=ffd500&fire=ffd500&currStreakNum=ffd500&sideNums=ffd500&currStreakLabel=ffd500&sideLabels=ffd500&dates=ffd500" />
   
 </p> 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=akshatnema&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=akshatnema&theme=react-dark&bg_color=00000000&color=ffd500&line=ffd500&point=ffd500&area=true&hide_border=true&area_color=ffd500"> <br>
 
 <!--
 **AKSHATNEMA/AKSHATNEMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
