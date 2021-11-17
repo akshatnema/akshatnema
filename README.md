@@ -16,10 +16,10 @@
 <br />
 <br />
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatnema?color=g&logo=github&style=for-the-badge">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatnema?color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">
  <!-- <img src="https://gpvc.arturio.dev/AKSHATNEMA" alt="profile views"> -->
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/akshatnema?affiliations=OWNER&color=B&logo=github&style=for-the-badge">  
- <img alt="Follow Twitter" src="https://img.shields.io/twitter/follow/AksNema?color=blue&label=Aks%20Nema&logo=twitter&logoColor=blue&style=for-the-badge">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/akshatnema?affiliations=OWNER&color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">  
+ <img alt="Follow Twitter" src="https://img.shields.io/twitter/follow/AksNema?color=ffb300&label=Aks%20Nema&logo=twitter&logoColor=ffb300&style=for-the-badge">
   
 </p> 
 
