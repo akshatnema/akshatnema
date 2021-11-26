@@ -1,7 +1,8 @@
 <!--### Hello World, I am Akshat 👋 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+FrontEnd+Developer&color=ff960d)](https://git.io/typing-svg)
 
-<img src="gif.gif" width="400px" alt=gif align="right"> 
+<!-- <img src="gif.gif" width="400px" alt=gif align="right">  -->
+<a href="https://app.daily.dev/akshatnema"><img src="https://api.daily.dev/devcards/d06782c8321f45909143797a4583c6b9.png?r=93b" width="400" alt="Akshat Nema's Dev Card" align="right" /></a>
 <br />
 
   - 🔭 I’m currently working on Web Development
@@ -12,10 +13,7 @@
   - ⚡ Fun fact: I am still a newbie😄.
 
 <br />
-<br />
-<br />
-<br />
-<p align="center">
+<p align="left">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatnema?color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">
  <!-- <img src="https://gpvc.arturio.dev/AKSHATNEMA" alt="profile views"> -->
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/akshatnema?affiliations=OWNER&color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">  
@@ -23,7 +21,7 @@
   
 </p> 
 
-<div align="center">
+<div align="left">
 
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatnema&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=ffb300&icon_color=ffb300&cache_seconds=1800" />
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatnema&background=00000000&hide_border=true&stroke=ffb300&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=ffb300&sideLabels=ffb300&dates=ffb300" />
