@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+FrontEnd+Developer&color=ff960d)](https://git.io/typing-svg)
 
 <!-- <img src="gif.gif" width="400px" alt=gif align="right">  -->
-<a href="https://app.daily.dev/akshatnema"><img src="https://api.daily.dev/devcards/d06782c8321f45909143797a4583c6b9.png?r=93b" width="400" alt="Akshat Nema's Dev Card" align="right" /></a>
+<a href="https://app.daily.dev/akshatnema"><img src="https://api.daily.dev/devcards/d06782c8321f45909143797a4583c6b9.png?r=nt3" width="400" alt="Akshat Nema's Dev Card" align="right"/></a>
 <br />
 
   - 🔭 I’m currently working on Web Development
