@@ -1,8 +1,11 @@
 <!--### Hello World, I am Akshat 👋 -->
+<div> 
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+Full+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
 
-<img src="gif.gif" width="400px" alt=gif align="right"> 
-<br />
+<img src="gif.gif" width="300px" alt=gif align="right"> 
+</div>
+  <br />
 
   - 🔭 I’m currently working on Web Development
   - 🌱 I’m currently learning: Next.js
