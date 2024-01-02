@@ -29,13 +29,12 @@
 
 <br />
 <br />
-<br />
 
 <p align="center">
 
 <img alt="GitHub Followers" src="https://img.shields.io/github/followers/akshatnema?style=for-the-badge&logo=github" >  
 
-<img alt="Follow Twitter" src="https://img.shields.io/badge/follow-@aksnema-blue?style=for-the-badge&logo=twitter&link=https%3A%2F%2Ftwitter.com%2FAksNema" >
+<img alt="Follow Twitter" src="https://img.shields.io/badge/follow-@aksnema-blue?style=for-the-badge&logo=twitter&link=https%3A%2F%2Ftwitter.com%2FAksNema">
   
 </p>
 
