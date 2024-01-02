@@ -1,14 +1,29 @@
 <!--### Hello World, I am Akshat 👋 -->
+<style>
+  .gif-img {
+    margin: 10px;
+  }
+</style>
+
 <div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+Full+Stack+Developer&color=007EC6)](https://git.io/typing-svg)
 
-<img src="assets/Developer.gif" width="250px" alt="gif" align="right" />
+<img src="assets/Developer.gif" width="250px" alt="gif" align="right" class="gif-img" />
 
 </div>
-  <br />
+<br />
+<br />
 
-<strong>I’m a Full Stack Developer who is excited to further go through the bugs inside my codebase. I like to do all my work in an asynchronous manner, that’s why I think I love AsyncAPI. If you don’t know, it’s an open-source community where I hustles a lot to learn new skills.</strong>
+<strong>
+
+- 🌱 I’m a Full Stack Developer who is always excited to go through the bugs inside the codes.
+
+- 🏢 I like to do all my work in an asynchronous manner, that’s why I think I love AsyncAPI.
+
+- 🤷 If you don’t know about AsyncAPI, it’s an open-source community where I hustles a lot to learn new skills.
+
+</strong>
 
 <!-- - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning: Python
@@ -58,7 +73,6 @@
 
 </div>
 
-
 ### My Tech Stack
 
 |               |           |
@@ -67,7 +81,6 @@
 | `Languages`   | ![C++](https://img.shields.io/badge/-C%2B%2B-white?color=blue&logo=C%2B%2B&logoColor=white&logoWidth=20) ![C](https://img.shields.io/badge/-C-white?color=2a1d80&logo=C&logoColor=white&logoWidth=20) ![Typescript](https://img.shields.io/badge/-typescript-white?logo=typescript&logoColor=white&logoWidth=20&color=2F74C0) ![JavaScript](https://img.shields.io/badge/-javascript-white?logo=javascript&logoColor=white&logoWidth=20&color=F1DB4E) ![Python](https://img.shields.io/badge/-Python-orange?color=205966&logo=Python&logoColor=white&logoWidth=20) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/-java-orange?color=EC2025&logo=java&logoColor=white&logoWidth=20)|
 | `Technologies Used`  | ![NodeJS](https://img.shields.io/badge/-Node-orange?color=8BBF3F&logo=NODE&logoColor=white&logoWidth=20) ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-black?logo=amazon&logoColor=white&color=FE9D08) ![GCP](https://img.shields.io/badge/-Google%20Cloud%20Provider-black?logo=google%20cloud&logoColor=white&color=4989F5) ![NPM](https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&logo=NPM&logoColor=white&logoWidth=20) ![Pip](https://img.shields.io/badge/-pip-black?logo=python&logoColor=white&color=yellow) ![Express](https://img.shields.io/badge/-Express-orange?color=8BBF3F&logo=Express&logoColor=white&logoWidth=20) |
 | `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?logo=git&logoColor=white) ![Github](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown&color=gray) ![Netlify](https://img.shields.io/badge/-Netlify-black?logo=netlify&logoColor=white&color=26C8B8) ![Vercel](https://img.shields.io/badge/vercel-AA42F1.svg?logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-canva-white?logo=canva&logoColor=white&logoWidth=20&color=01C4CD)|
-
 
 ### Connect with me <img src="assets/Handshake.gif" height="32px">
 
