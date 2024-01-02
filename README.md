@@ -1,9 +1,5 @@
 <!--### Hello World, I am Akshat 👋 -->
-<style>
-  .gif-img {
-    margin: 10px;
-  }
-</style>
+
 
 <div>
   
@@ -12,8 +8,7 @@
 <img src="assets/Developer.gif" width="250px" alt="gif" align="right" class="gif-img" />
 
 </div>
-<br />
-<br />
+
 
 <strong>
 
@@ -32,6 +27,7 @@
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I am still a newbie😄. -->
 
+<br />
 <br />
 <br />
 
