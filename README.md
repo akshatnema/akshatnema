@@ -28,10 +28,12 @@
 
 <div>
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatnema&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=4D89F9&text_color=007EC6&icon_color=007EC6&cache_seconds=900" >
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatnema&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&theme=nightowl&title_color=4D89F9&text_color=007EC6&icon_color=007EC6&cache_seconds=900" >
 
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatnema&background=00000000&hide_border=true&stroke=007EC6&ring=007EC6&fire=4D89F9&currStreakNum=4D89F9&sideNums=4D89F9&currStreakLabel=007EC6&sideLabels=007EC6&dates=007EC6" >
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatnema&theme=nightowl&hide_border=true&stroke=007EC6&ring=007EC6&fire=4D89F9&currStreakNum=4D89F9&sideNums=4D89F9&currStreakLabel=007EC6&sideLabels=007EC6&dates=007EC6" >
   
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatnema&hide_border=true&theme=nightowl&count_private=true&layout=compact">
+
 </div>
 
 <div>
@@ -39,6 +41,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatnema&theme=react-dark&bg_color=00000000&color=4D89F9&line=4D89F9&point=007EC6&area=true&hide_border=true&area_color=#a8c7ff"> <br>
 
 </div>
+
+<div>
+
+### Github Trophies
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=akshatnema&no-bg=false&margin-w=4&theme=radical)
+
+</div>
+
+
+### My Tech Stack
 
 |               |           |
 |       ---     |    ---    |
