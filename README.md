@@ -1,51 +1,86 @@
 <!--### Hello World, I am Akshat 👋 -->
-<div> 
+
+
+<div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+Full+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+Full+Stack+Developer&color=007EC6)](https://git.io/typing-svg)
 
-<img src="gif.gif" width="300px" alt=gif align="right"> 
+<img src="assets/Developer.gif" width="250px" alt="gif" align="right" class="gif-img" />
+
 </div>
-  <br />
 
-  - 🔭 I’m currently working on Web Development
-  - 🌱 I’m currently learning: Next.js
-  - 💬 Ask me about: C++, Competitive Programming, Web Development
-  - 📫 How to reach me:through [mail](mailto:akshatnema.official@gmail.com) and [linkedin](https://www.linkedin.com/in/akshat-nema-2002/)
-  - 😄 Pronouns: He/him.
-  - ⚡ Fun fact: I am still a newbie😄.
+
+<strong>
+
+- 🌱 I’m a Full Stack Developer who is always excited to go through the bugs inside the codes.
+
+- 🏢 I like to do all my work in an asynchronous manner, that’s why I think I love AsyncAPI.
+
+- 🤷 If you don’t know about AsyncAPI, it’s an open-source community where I hustles a lot to learn new skills.
+
+</strong>
+
+<!-- - 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning: Python
+- 💬 Ask me about: C++, Competitive Programming, Web Development
+- 📫 How to reach me:through [mail](mailto:akshatnema.official@gmail.com) and [linkedin](https://www.linkedin.com/in/akshat-nema/)
+- 😄 Pronouns: He/him.
+- ⚡ Fun fact: I am still a newbie😄. -->
 
 <br />
 <br />
-<br />
-<br />
+
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatnema?color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">
- <!-- <img src="https://gpvc.arturio.dev/AKSHATNEMA" alt="profile views"> -->
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/akshatnema?affiliations=OWNER&color=ffb300&logo=github&style=for-the-badge&logoColor=ffb300">  
- <img alt="Follow Twitter" src="https://img.shields.io/twitter/follow/AksNema?color=ffb300&label=Aks%20Nema&logo=twitter&logoColor=ffb300&style=for-the-badge">
+
+<img alt="GitHub Followers" src="https://img.shields.io/github/followers/akshatnema?style=for-the-badge&logo=github" >  
+
+<img alt="Follow Twitter" src="https://img.shields.io/badge/follow-@aksnema-blue?style=for-the-badge&logo=twitter&link=https%3A%2F%2Ftwitter.com%2FAksNema">
   
-</p> 
+</p>
+
+### Github Stats
 
 <div align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatnema&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=ffb300&icon_color=ffb300&cache_seconds=1800" />
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatnema&background=00000000&hide_border=true&stroke=ffb300&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=ffb300&sideLabels=ffb300&dates=ffb300" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=akshatnema&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&theme=nightowl&title_color=4D89F9&text_color=007EC6&icon_color=007EC6&cache_seconds=900" >
   
-</div> 
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatnema&hide_border=true&theme=nightowl&count_private=true&layout=compact">
 
-<div align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=akshatnema&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=ffb300"> <br>
 </div>
+
+<div align="center">
+
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatnema&theme=nightowl&hide_border=true&stroke=007EC6&ring=007EC6&fire=4D89F9&currStreakNum=4D89F9&sideNums=4D89F9&currStreakLabel=007EC6&sideLabels=007EC6&dates=007EC6" >
+
+</div>
+
+<div>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatnema&theme=react-dark&bg_color=00000000&color=4D89F9&line=4D89F9&point=007EC6&area=true&hide_border=true&area_color=#a8c7ff"> <br>
+
+</div>
+
+<div>
+
+### Github Trophies
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=akshatnema&no-bg=false&margin-w=4&theme=radical)
+
+</div>
+
+### My Tech Stack
 
 |               |           |
 |       ---     |    ---    |
-| `Web-Dev`     | ![JavaScript](https://img.shields.io/badge/-javascript-white?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=20&color=F1DB4E) ![ReactJS](https://img.shields.io/badge/-React-orange?color=09D9FE&style=for-the-badge&logo=React&logoColor=white&logoWidth=20) ![Sass](https://img.shields.io/badge/-sass-white?style=for-the-badge&logo=sass&logoColor=white&logoWidth=20&color=CD679B) ![HTML5](https://img.shields.io/badge/-HTML5-white?color=ff6529&style=for-the-badge&logo=HTML5&logoColor=white&logoWidth=20) ![CSS3](https://img.shields.io/badge/-CSS3-orange?color=264DE4&style=for-the-badge&logo=CSS3&logoColor=white&logoWidth=20) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white)|
-| `Languages`   | ![C++](https://img.shields.io/badge/-C%2B%2B-white?color=blue&style=for-the-badge&logo=C%2B%2B&logoColor=white&logoWidth=20) ![C](https://img.shields.io/badge/-C-white?color=2a1d80&style=for-the-badge&logo=C&logoColor=white&logoWidth=20) ![Python](https://img.shields.io/badge/-Python-orange?color=205966&style=for-the-badge&logo=Python&logoColor=white&logoWidth=20) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/-java-orange?color=EC2025&style=for-the-badge&logo=java&logoColor=white&logoWidth=20)|
-| `Technologies Used`  | ![NodeJS](https://img.shields.io/badge/-Node-orange?color=8BBF3F&style=for-the-badge&logo=NODE&logoColor=white&logoWidth=20) ![NPM](https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&style=for-the-badge&logo=NPM&logoColor=white&logoWidth=20) ![Express](https://img.shields.io/badge/-Express-orange?color=8BBF3F&style=for-the-badge&logo=Express&logoColor=white&logoWidth=20) ![Typescript](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=20&color=2F74C0)|
-| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-AA42F1.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-canva-white?style=for-the-badge&logo=canva&logoColor=white&logoWidth=20&color=01C4CD)|
+| `Web-Dev`     | ![Next js](https://img.shields.io/badge/-NEXT-black?logo=nextjs) ![ReactJS](https://img.shields.io/badge/-React-orange?color=09D9FE&logo=React&logoColor=white&logoWidth=20) ![Flask](https://img.shields.io/badge/-flask-black?logo=flask&logoColor=white&color=56B7C7) ![TailwindCSS](https://img.shields.io/badge/-tailwind-black?logo=tailwindcss&logoColor=white&color=38BDF8) ![Sass](https://img.shields.io/badge/-sass-white?logo=sass&logoColor=white&logoWidth=20&color=CD679B) ![HTML5](https://img.shields.io/badge/-HTML5-white?color=ff6529&logo=HTML5&logoColor=white&logoWidth=20) ![CSS3](https://img.shields.io/badge/-CSS3-orange?color=264DE4&logo=CSS3&logoColor=white&logoWidth=20) ![Material UI](https://img.shields.io/badge/-Material%20UI-black?color=0885CD)|
+| `Languages`   | ![C++](https://img.shields.io/badge/-C%2B%2B-white?color=blue&logo=C%2B%2B&logoColor=white&logoWidth=20) ![C](https://img.shields.io/badge/-C-white?color=2a1d80&logo=C&logoColor=white&logoWidth=20) ![Typescript](https://img.shields.io/badge/-typescript-white?logo=typescript&logoColor=white&logoWidth=20&color=2F74C0) ![JavaScript](https://img.shields.io/badge/-javascript-white?logo=javascript&logoColor=white&logoWidth=20&color=F1DB4E) ![Python](https://img.shields.io/badge/-Python-orange?color=205966&logo=Python&logoColor=white&logoWidth=20) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/-java-orange?color=EC2025&logo=java&logoColor=white&logoWidth=20)|
+| `Technologies Used`  | ![NodeJS](https://img.shields.io/badge/-Node-orange?color=8BBF3F&logo=NODE&logoColor=white&logoWidth=20) ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-black?logo=amazon&logoColor=white&color=FE9D08) ![GCP](https://img.shields.io/badge/-Google%20Cloud%20Provider-black?logo=google%20cloud&logoColor=white&color=4989F5) ![NPM](https://img.shields.io/badge/-NPM-brightgreen?color=DC2C34&logo=NPM&logoColor=white&logoWidth=20) ![Pip](https://img.shields.io/badge/-pip-black?logo=python&logoColor=white&color=yellow) ![Express](https://img.shields.io/badge/-Express-orange?color=8BBF3F&logo=Express&logoColor=white&logoWidth=20) |
+| `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?logo=git&logoColor=white) ![Github](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown&color=gray) ![Netlify](https://img.shields.io/badge/-Netlify-black?logo=netlify&logoColor=white&color=26C8B8) ![Vercel](https://img.shields.io/badge/vercel-AA42F1.svg?logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-canva-white?logo=canva&logoColor=white&logoWidth=20&color=01C4CD)|
 
+### Connect with me <img src="assets/Handshake.gif" height="32px">
 
-
+[<img src="assets/twitter.svg" alt="Twitter" height="32" target="_blank">](https://twitter.com/aksnema) | [<img src="assets/Linkedin.svg" alt="LinkedIn logo" height="32" target="_blank">](https://www.linkedin.com/in/akshat-nema/) | [<img src="assets/Telegram_logo.svg" alt="Telegram logo" height="32" target="_blank">](https://t.me/akshatnema) | [<img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" alt="Codechef logo" height="32" target="_blank">](https://www.codechef.com/users/aks_29) | [<img src="assets/codeforces.svg" alt="Codeforces logo" height="32" target="_blank">](https://codeforces.com/profile/akshatnema) | [<img src="assets/leet-code.svg" alt="Leetcode logo" height="32" target="_blank">](https://leetcode.com/aks_29/)
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <!--
 **AKSHATNEMA/AKSHATNEMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
