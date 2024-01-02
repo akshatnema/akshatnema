@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+Full+Stack+Developer&color=007EC6)](https://git.io/typing-svg)
 
-<img src="assets/developer.gif" width="250px" alt="gif" align="right" />
+<img src="assets/Developer.gif" width="250px" alt="gif" align="right" />
 
 </div>
   <br />
